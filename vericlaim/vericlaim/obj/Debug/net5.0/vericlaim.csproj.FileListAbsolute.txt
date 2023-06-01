@@ -1,0 +1,16 @@
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\bin\Debug\net5.0\vericlaim.exe
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\bin\Debug\net5.0\vericlaim.deps.json
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\bin\Debug\net5.0\vericlaim.runtimeconfig.json
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\bin\Debug\net5.0\vericlaim.runtimeconfig.dev.json
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\bin\Debug\net5.0\vericlaim.dll
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\bin\Debug\net5.0\vericlaim.pdb
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.csproj.AssemblyReference.cache
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.AssemblyInfoInputs.cache
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.AssemblyInfo.cs
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.csproj.CoreCompileInputs.cache
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.dll
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\refint\vericlaim.dll
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.pdb
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\vericlaim.genruntimeconfig.cache
+C:\Users\Moses\Desktop\Back Up\Dev\Technobrainent\vericlaim\vericlaim\vericlaim\obj\Debug\net5.0\ref\vericlaim.dll
